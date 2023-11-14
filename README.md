@@ -2,7 +2,7 @@
 **texto en negrita** *texto en cursiva*
 [Youtube](https://www.youtube.com/)
 
-Apuntes de [sistemas][sistemas/processos/Introducció]
+Apuntes de [sistemas](sistemas/processos/Introducció.md)
 ## dos
 ### tercer apartado
 #### cuarto apartado
