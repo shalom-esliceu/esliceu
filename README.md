@@ -1,7 +1,8 @@
 # esliceu
 **texto en negrita** *texto en cursiva*
 [Youtube](https://www.youtube.com/)
-Vamos a [fol](fol/apunte.png)
+
+Apuntes de [sistemas][sistemas/processos/Introducció]
 ## dos
 ### tercer apartado
 #### cuarto apartado
