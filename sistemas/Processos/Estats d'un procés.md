@@ -1,6 +1,8 @@
 ### Actius
 Execució: ocupen la CPU
+
 Preparat: en la cua d’espera
+
 Bloquejat: esperant algun recurs extra no disponible
 
 ### Inactius
