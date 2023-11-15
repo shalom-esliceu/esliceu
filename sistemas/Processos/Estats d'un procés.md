@@ -12,3 +12,5 @@ Susp Preparat
 
 
 [Imatge](<Captura de pantalla de 2023-11-13 10-30-47.png>)
+
+[Introducció](sistemas/Processos/Introducció.md)

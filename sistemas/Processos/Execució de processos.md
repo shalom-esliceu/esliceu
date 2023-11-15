@@ -13,3 +13,5 @@ Ocupa el processador que s’encarrega d’executar-lo
 -top
 
 -ps -aux
+
+[Introducció](sistemas/Processos/Introducció.md)

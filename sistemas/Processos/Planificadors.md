@@ -29,3 +29,5 @@ SJF: executem primer els processos més curts
 SRT: primer els processos amb temps restant més curt
 
 Prioritats
+
+[Introducció](sistemas/Processos/Introducció.md)

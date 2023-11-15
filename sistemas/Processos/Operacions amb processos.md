@@ -26,3 +26,5 @@ Amb Ctrl+z el podem posar en background (bg backgroud, fg foreground)
 Bloquejar/dormir un procés kill -STOP PID
 
 Despertar un procés kill -CONT PID
+
+[Introducció](sistemas/Processos/Introducció.md)
