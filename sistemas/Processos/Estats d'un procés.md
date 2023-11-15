@@ -7,6 +7,7 @@ Bloquejat: esperant algun recurs extra no disponible
 
 ### Inactius
 Suspès Bloquejat
+
 Susp Preparat
 
 
